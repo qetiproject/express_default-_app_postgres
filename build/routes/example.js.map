@@ -1,0 +1,1 @@
+{"version":3,"file":"example.js","sourceRoot":"","sources":["../../src/routes/example.ts"],"names":[],"mappings":";;AAAA,wBAAwB;AACxB,qCAAoD;AAEpD,MAAM,aAAa,GAAG,IAAA,gBAAM,GAAE,CAAC;AAE/B;;;;;;;;GAQG;AACH,aAAa,CAAC,GAAG,CAAC,GAAG,EAAE,CAAC,GAAY,EAAE,GAAa,EAAE,EAAE;IACrD,GAAG,CAAC,IAAI,CAAC,EAAE,OAAO,EAAE,8BAA8B,EAAE,CAAC,CAAC;AACxD,CAAC,CAAC,CAAC;AAEH,kBAAe,aAAa,CAAC"}
